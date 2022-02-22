@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 1.01 Login(success DataDrivenTesting)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd0483dc-3738-40bc-81e4-ba42623c8aa9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afe1add2-4273-438e-9c7b-4acc6db563da</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdfddc2f-1f58-48ae-8aea-7d0ee0542f19</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
