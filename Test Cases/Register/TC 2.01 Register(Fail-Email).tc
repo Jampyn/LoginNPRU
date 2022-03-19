@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 2.01 Register(Fail-Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8309b92-acd0-49b0-85b7-f296b62502f9</testCaseGuid>
+</TestCaseEntity>
