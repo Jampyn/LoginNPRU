@@ -27,7 +27,17 @@ WebUI.setText(findTestObject('Object Repository/Page_Login Page/input__id'), '63
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page/input__passwords'), 'ief1bhZxSoD5d4GYmJy9BQ==')
 
+<<<<<<< HEAD:Scripts/Login/TC 1.01 Login(sucess)/Script1647670850558.groovy
 WebUI.click(findTestObject('Object Repository/Page_Login Page/button_'))
+=======
+WebUI.verifyTextPresent('Dashboard', false)
+
+WebUI.takeScreenshot('D:\\TC01Login.png')
+
+WebUI.click(findTestObject('Page_OrangeHRM/a_Welcome'))
+>>>>>>> cd9f8c8f88dc859d5690b22d549699d90b67de7b:Scripts/TC 1.01 Login(success DataDrivenTesting)/Script1644896069464.groovy
+
+WebUI.closeBrowser()
 
 WebUI.closeBrowser()
 
